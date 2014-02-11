@@ -1,14 +1,13 @@
-# Dogecoin [DOGE, Ð] Integration/Staging Tree
-http://dogecoin.com/
+# FlappyCoin
 
-![DogeCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![FlappyCoin](http://i.imgur.com/YC4sB1A.png)
 
-## What is DogeCoin? - Such coin
-Dogecoin is like Bitcoin, but based on Litecoin, and also much more wow.
-http://dogecoin.com/
+## What is FlappyCoin? - Such coin
+FlappyCoin is like Bitcoin, but based on Litecoin, and also much more wow.
+http://FlappyCoin.com/
 
 ## License - Much license
-DogeCoin is released under the terms of the MIT license. See [COPYING](COPYING)
+FlappyCoin is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
 
 ## Development and contributions - omg developers
@@ -20,7 +19,7 @@ their feature or bug fix is ready.
 ### How much doge can exist?
 Early 2015 (approximately a year and a half after release) there will be approximately 100,000,000,000 coins.
 Each subsequent block will grant 10,000 coins to encourage miners to continue to secure the network and make up for lost wallets on hard drives/phones/lost encryption passwords/etc.
-For the block schedule, see http://en.wikipedia.org/wiki/Dogecoin#Block_schedule
+For the block schedule, see http://en.wikipedia.org/wiki/FlappyCoin#Block_schedule
 
 ### How get doge?
 Scrypt Proof of Work
@@ -29,21 +28,21 @@ Scrypt Proof of Work
 
 Special reward system: Random block rewards
 
-1-100,000: 0-1,000,000 Dogecoin Reward
+1-100,000: 0-1,000,000 FlappyCoin Reward
 
-100,001 — 200,000: 0-500,000 Dogecoin Reward
+100,001 — 200,000: 0-500,000 FlappyCoin Reward
 
-200,001 — 300,000: 0-250,000 Dogecoin Reward
+200,001 — 300,000: 0-250,000 FlappyCoin Reward
 
-300,001 — 400,000: 0-125,000 Dogecoin Reward
+300,001 — 400,000: 0-125,000 FlappyCoin Reward
 
-400,001 — 500,000: 0-62,500 Dogecoin Reward
+400,001 — 500,000: 0-62,500 FlappyCoin Reward
 
-500,001 - 600,000: 0-31,250 Dogecoin Reward
+500,001 - 600,000: 0-31,250 FlappyCoin Reward
 
 600,000+ — 10,000 Reward (flat)
 
-### Wow plz make dogecoind
+### Wow plz make FlappyCoind
 
     sudo apt-get install build-essential \
                          libssl-dev \
