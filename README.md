@@ -16,12 +16,12 @@ their feature or bug fix is ready.
 
 ## Very Much Frequently Asked Questions
 
-### How much doge can exist?
+### How much Flappy can exist?
 Early 2015 (approximately a year and a half after release) there will be approximately 100,000,000,000 coins.
 Each subsequent block will grant 10,000 coins to encourage miners to continue to secure the network and make up for lost wallets on hard drives/phones/lost encryption passwords/etc.
 For the block schedule, see http://en.wikipedia.org/wiki/FlappyCoin#Block_schedule
 
-### How get doge?
+### How get Flappy?
 Scrypt Proof of Work
 
 1 Minute Block Targets, 4 Hour Diff Readjustments
@@ -58,4 +58,4 @@ Special reward system: Random block rewards
 RPC 22555
 P2P 22556
 
-![](http://dogesay.com/wow//////such/coin)
+![](http://Flappysay.com/wow//////such/coin)
